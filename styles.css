@@ -29,6 +29,12 @@ body {
     font-weight: bold;
 }
 .contact{
-color:rgb(172, 8, 8)
+    text-align: center;
+    color:rgb(172, 8, 8);
 
+}
+.group_members{
+    text-align: left;
+    font-size: 20px;
+    color:rgb(172, 8, 8);
 }
